@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Fredoka One', cursive;;
+  font-family: 'Fredoka One', cursive;
 }
 
 .container-top {
@@ -29,12 +29,14 @@
 
 .container-top h1 {
   color: #E53170;
+  font-family: 'Fredoka', sans-serif;
 }
 
 /* MAIN */
 
 .container-bottom section p {
-  margin: 0 26px
+  margin: 0 26px;
+  font-family: 'Fredoka', sans-serif;
 }
 
 
@@ -44,6 +46,7 @@
   background-color: #0F0E17;
   margin: 40px 0 0 40px;
   float: left;
+  box-shadow: 5px 5px 5px 5px #D3D3D2;
 }
 
 .contatti img{
@@ -54,17 +57,24 @@
   margin-right: 20px;
 }
 
-.contatti h2 {
+.contatti h3 {
   color: #FFFFFE;
   float: left;
+  margin-top: 10px;
+  font-family: 'Fredoka', sans-serif;
+  margin-right: 60px;
 }
 
 .contatti span {
   color: #FFFFFE;
   float: left;
+  margin-top: 5px;
+  margin-right: 60px;
+  font-family: 'Fredoka', sans-serif;
 }
 
 .contatti a {
   float: left;
+  margin-top: 5px;
 }
 
