@@ -34,19 +34,21 @@
 
 /* MAIN */
 
+/* Descrizione */
 .container-bottom section p {
   margin: 0 26px;
   font-family: 'Fredoka', sans-serif;
 }
+/* /Descrizione */
 
-
+/* Contatti */
 .container-bottom .contatti {
   width: 360px;
   height: 100px;
   background-color: #0F0E17;
   margin: 40px 0 0 40px;
   float: left;
-  box-shadow: 5px 5px 5px 5px #D3D3D2;
+  box-shadow: 3px 3px 3px 3px #D3D3D2;
 }
 
 .contatti img{
@@ -76,5 +78,7 @@
 .contatti a {
   float: left;
   margin-top: 5px;
+  font-family: 'Fredoka', sans-serif;
 }
+/* /Contatti */
 
